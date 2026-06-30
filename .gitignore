@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.spacy_models/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.vault_key
+data-governance-lab/.vault_key_demo

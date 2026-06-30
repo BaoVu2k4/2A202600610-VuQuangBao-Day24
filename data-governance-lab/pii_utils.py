@@ -86,7 +86,7 @@ def _blank_vi_model_path(cache_dir: Path) -> str:
     blank_path = cache_dir / ".spacy_models" / "vi_blank"
     if not blank_path.exists():
         blank_path.parent.mkdir(parents=True, exist_ok=True)
-        spacy.blank("vi").to_disk(blank_path)
+        spacy.blank("vi", config={"nlp": {"tokenizer": {"use_pyvi": False}}}).to_disk(blank_path)
     return str(blank_path)
 
 

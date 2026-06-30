@@ -1,5 +1,5 @@
-# Data Governance Lab — dependencies
-# Yêu cầu: Python 3.11+ (AGT), khuyến nghị 3.11–3.12
+# Data Governance Lab dependencies
+# Python 3.11+ recommended.
 jupyter>=1.0.0
 ipykernel>=6.0.0
 pandas>=2.0.0
@@ -13,15 +13,7 @@ casbin>=1.17.0
 cryptography>=41.0.0
 great-expectations>=0.17.0
 
-# Agent Governance Toolkit (Phần 6) — từ source local (repo đã clone)
--e ../agent-governance-toolkit/agent-governance-python/agent-governance-toolkit-core[full]
-
-# --- Cài thêm sau requirements.txt ---
-# Model tiếng Việt (KHÔNG dùng `spacy download`):
-#   pip install --no-deps https://gitlab.com/trungtv/vi_spacy/-/raw/master/packages/vi_core_news_lg-3.6.0/dist/vi_core_news_lg-3.6.0.tar.gz
-#
-# AGT từ PyPI (thay cho dòng -e ở trên nếu không có repo local):
-#   pip install "agent-governance-toolkit[full]"
-#
-# Kiểm tra AGT:
-#   python -c "from agent_os import StatelessKernel; from agent_os.policies import PolicyEvaluator; print('AGT OK')"
+# Optional for Part 6. Install manually when running AGT notebook cells:
+# pip install "agent-governance-toolkit[full]"
+# or, if the toolkit repo is cloned next to this repo:
+# pip install -e "../agent-governance-toolkit/agent-governance-python/agent-governance-toolkit-core[full]"
