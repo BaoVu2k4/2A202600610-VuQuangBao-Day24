@@ -8,13 +8,15 @@ default allow := false
 
 # Admin được phép tất cả
 allow if {
+    not deny
     input.user.role == "admin"
 }
 
 # ML Engineer được đọc/ghi training data và model artifacts
 allow if {
+    not deny
     input.user.role == "ml_engineer"
-    input.resource in {"training_data", "model_artifacts"}
+    input.resource in {"training_data", "model_artifacts", "aggregated_metrics"}
     input.action in {"read", "write"}
 }
 
@@ -34,12 +36,14 @@ deny if {
 
 # Data Analyst chỉ được đọc aggregated metrics và viết reports
 allow if {
+    not deny
     input.user.role == "data_analyst"
     input.resource == "aggregated_metrics"
     input.action == "read"
 }
 
 allow if {
+    not deny
     input.user.role == "data_analyst"
     input.resource == "reports"
     input.action == "write"
@@ -53,6 +57,7 @@ deny if {
 
 # Intern chỉ được access sandbox — KHÔNG được access production
 allow if {
+    not deny
     input.user.role == "intern"
     input.resource == "sandbox_data"
     input.action in {"read", "write"}

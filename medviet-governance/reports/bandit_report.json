@@ -1,21 +1,21 @@
 {
   "errors": [],
-  "generated_at": "2026-06-30T02:50:53Z",
+  "generated_at": "2026-06-30T03:40:15Z",
   "metrics": {
     "_totals": {
-      "CONFIDENCE.HIGH": 4,
+      "CONFIDENCE.HIGH": 0,
       "CONFIDENCE.LOW": 0,
       "CONFIDENCE.MEDIUM": 0,
       "CONFIDENCE.UNDEFINED": 0,
       "SEVERITY.HIGH": 0,
-      "SEVERITY.LOW": 4,
+      "SEVERITY.LOW": 0,
       "SEVERITY.MEDIUM": 0,
       "SEVERITY.UNDEFINED": 0,
-      "loc": 476,
+      "loc": 477,
       "nosec": 0,
       "skipped_tests": 0
     },
-    "src/__init__.py": {
+    "src\\__init__.py": {
       "CONFIDENCE.HIGH": 0,
       "CONFIDENCE.LOW": 0,
       "CONFIDENCE.MEDIUM": 0,
@@ -28,7 +28,7 @@
       "nosec": 0,
       "skipped_tests": 0
     },
-    "src/access\\__init__.py": {
+    "src\\access\\__init__.py": {
       "CONFIDENCE.HIGH": 0,
       "CONFIDENCE.LOW": 0,
       "CONFIDENCE.MEDIUM": 0,
@@ -41,7 +41,7 @@
       "nosec": 0,
       "skipped_tests": 0
     },
-    "src/access\\rbac.py": {
+    "src\\access\\rbac.py": {
       "CONFIDENCE.HIGH": 0,
       "CONFIDENCE.LOW": 0,
       "CONFIDENCE.MEDIUM": 0,
@@ -54,7 +54,7 @@
       "nosec": 0,
       "skipped_tests": 0
     },
-    "src/api\\__init__.py": {
+    "src\\api\\__init__.py": {
       "CONFIDENCE.HIGH": 0,
       "CONFIDENCE.LOW": 0,
       "CONFIDENCE.MEDIUM": 0,
@@ -67,7 +67,7 @@
       "nosec": 0,
       "skipped_tests": 0
     },
-    "src/api\\main.py": {
+    "src\\api\\main.py": {
       "CONFIDENCE.HIGH": 0,
       "CONFIDENCE.LOW": 0,
       "CONFIDENCE.MEDIUM": 0,
@@ -80,7 +80,7 @@
       "nosec": 0,
       "skipped_tests": 0
     },
-    "src/encryption\\__init__.py": {
+    "src\\encryption\\__init__.py": {
       "CONFIDENCE.HIGH": 0,
       "CONFIDENCE.LOW": 0,
       "CONFIDENCE.MEDIUM": 0,
@@ -93,7 +93,7 @@
       "nosec": 0,
       "skipped_tests": 0
     },
-    "src/encryption\\vault.py": {
+    "src\\encryption\\vault.py": {
       "CONFIDENCE.HIGH": 0,
       "CONFIDENCE.LOW": 0,
       "CONFIDENCE.MEDIUM": 0,
@@ -106,7 +106,7 @@
       "nosec": 0,
       "skipped_tests": 0
     },
-    "src/pii\\__init__.py": {
+    "src\\pii\\__init__.py": {
       "CONFIDENCE.HIGH": 0,
       "CONFIDENCE.LOW": 0,
       "CONFIDENCE.MEDIUM": 0,
@@ -119,20 +119,20 @@
       "nosec": 0,
       "skipped_tests": 0
     },
-    "src/pii\\anonymizer.py": {
-      "CONFIDENCE.HIGH": 3,
+    "src\\pii\\anonymizer.py": {
+      "CONFIDENCE.HIGH": 0,
       "CONFIDENCE.LOW": 0,
       "CONFIDENCE.MEDIUM": 0,
       "CONFIDENCE.UNDEFINED": 0,
       "SEVERITY.HIGH": 0,
-      "SEVERITY.LOW": 3,
+      "SEVERITY.LOW": 0,
       "SEVERITY.MEDIUM": 0,
       "SEVERITY.UNDEFINED": 0,
       "loc": 108,
       "nosec": 0,
       "skipped_tests": 0
     },
-    "src/pii\\detector.py": {
+    "src\\pii\\detector.py": {
       "CONFIDENCE.HIGH": 0,
       "CONFIDENCE.LOW": 0,
       "CONFIDENCE.MEDIUM": 0,
@@ -145,7 +145,7 @@
       "nosec": 0,
       "skipped_tests": 0
     },
-    "src/quality\\__init__.py": {
+    "src\\quality\\__init__.py": {
       "CONFIDENCE.HIGH": 0,
       "CONFIDENCE.LOW": 0,
       "CONFIDENCE.MEDIUM": 0,
@@ -158,16 +158,16 @@
       "nosec": 0,
       "skipped_tests": 0
     },
-    "src/quality\\validation.py": {
-      "CONFIDENCE.HIGH": 1,
+    "src\\quality\\validation.py": {
+      "CONFIDENCE.HIGH": 0,
       "CONFIDENCE.LOW": 0,
       "CONFIDENCE.MEDIUM": 0,
       "CONFIDENCE.UNDEFINED": 0,
       "SEVERITY.HIGH": 0,
-      "SEVERITY.LOW": 1,
+      "SEVERITY.LOW": 0,
       "SEVERITY.MEDIUM": 0,
       "SEVERITY.UNDEFINED": 0,
-      "loc": 95,
+      "loc": 96,
       "nosec": 0,
       "skipped_tests": 0
     }

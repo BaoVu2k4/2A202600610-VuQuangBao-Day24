@@ -1,5 +1,5 @@
 # src/pii/anonymizer.py
-import random
+import secrets
 import uuid
 import pandas as pd
 from presidio_anonymizer import AnonymizerEngine
@@ -12,14 +12,14 @@ fake = Faker("vi_VN")
 
 def _fake_cccd() -> str:
     """Tạo số CCCD giả 12 chữ số."""
-    return "".join([str(random.randint(0, 9)) for _ in range(12)])
+    return "".join(str(secrets.randbelow(10)) for _ in range(12))
 
 
 def _fake_phone() -> str:
     """Tạo số điện thoại VN giả."""
-    return f"0{random.choice([3, 5, 7, 8, 9])}" + "".join(
-        [str(random.randint(0, 9)) for _ in range(8)]
-    )
+    prefix = secrets.choice(["3", "5", "7", "8", "9"])
+    suffix = "".join(str(secrets.randbelow(10)) for _ in range(8))
+    return f"0{prefix}{suffix}"
 
 
 class MedVietAnonymizer:

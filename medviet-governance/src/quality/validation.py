@@ -17,8 +17,9 @@ def build_patient_expectation_suite():
         # Xóa suite cũ nếu tồn tại để tránh conflict
         try:
             context.delete_expectation_suite("patient_data_suite")
-        except Exception:
-            pass
+        except Exception as exc:
+            if "not found" not in str(exc).lower():
+                raise
 
         suite = context.add_expectation_suite("patient_data_suite")
 

@@ -1,0 +1,18 @@
+TruffleHog scan report
+======================
+
+Command requested by the lab:
+trufflehog git file://. --only-verified
+
+Result:
+The TruffleHog CLI was not available in the current Windows PATH during final verification.
+
+Fallback checks performed:
+- Confirmed `.vault_key` is ignored and not tracked by Git.
+- Confirmed `data/raw/patients_raw.csv` is ignored and not tracked by Git.
+- Confirmed the submitted Git tree includes only `data/raw/.gitkeep` from raw data.
+- Confirmed Bandit SAST report has zero findings in `reports/bandit_report.json`.
+
+Recommended production command:
+Install TruffleHog, then rerun:
+trufflehog git file://. --only-verified > reports/trufflehog_report.txt
