@@ -1,0 +1,21 @@
+# Vault key - KHÔNG commit lên git
+.vault_key
+
+# Raw patient data - chứa PII
+data/raw/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Great Expectations context
+gx/
+great_expectations/

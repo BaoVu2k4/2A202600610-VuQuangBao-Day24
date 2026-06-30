@@ -1,0 +1,221 @@
+patient_id,ho_ten,cccd,ngay_sinh,so_dien_thoai,email,dia_chi,benh,ket_qua_xet_nghiem,bac_si_phu_trach,ngay_kham
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,Lan Lê,315397797051,26/06/1954,0882837120,anon_7d0ba96a@medviet-anon.vn,"338 Dương Bùi xã JaneThành phố, 895667",Huyết áp cao,3.68,Anh Huy Phạm,31/01/2026
+562b0f79-c374-49ee-b50b-ea63371ecd7b,Phúc Hải Hoàng,814054692650,27/08/1948,0739296632,anon_ffc626c6@medviet-anon.vn,"18 Bà Nhật Đặng JohnPhường, 338968",Tiểu đường,3.99,An Dương,18/06/2026
+7412b293-4729-4739-a14f-f3d719db3ad0,Minh Phạm,066571257237,03/01/1964,0733555443,anon_b1ebfd98@medviet-anon.vn,"64 An Đặng phố JaneThị xã, 380746",Khỏe mạnh,5.1,Phương Hoàng Lê,20/06/2026
+a7cad415-366e-416f-908e-bad7b7c93acf,Quang Đức Dương,585539616713,18/07/1971,0965187206,anon_3c0c2400@medviet-anon.vn,"6 Dũng Vũ, 214975",Khỏe mạnh,11.3,Bà Nhật Bùi,26/04/2026
+988c24c9-61b1-4d22-a280-1c4510435a10,Hà Trần,282005826047,31/01/1951,0707194380,anon_ede04d93@medviet-anon.vn,"4 Bà Nhật Trần, 665579",Tim mạch,5.76,Quang Hải Trần,05/04/2026
+5cec4eb5-edd9-4831-9ca3-5cfb04fc6d82,Lan Phạm,457207192947,10/04/1968,0399475335,anon_b0d3d379@medviet-anon.vn,"Quận JaneXã
+89 Lâm Tấn Trần, 847581",Tiểu đường,4.42,Nhật Dương,27/03/2026
+1efa2197-7394-488f-847f-d9b4e64d1bcb,Bà Phương Lê,462910936828,10/05/1938,0381055175,anon_3f5f279a@medviet-anon.vn,"105 Nam Mai, 238739",Khỏe mạnh,11.24,Hồng Mai,06/02/2026
+6e595ed3-a8b3-47fa-98d0-752b1825bc54,Nhật Đức Phạm,360622697108,12/11/1942,0575552644,anon_9bd984cd@medviet-anon.vn,"338 Chị Nhật Mai, 179046",Huyết áp cao,6.44,Chị Lâm Trần,12/06/2026
+ed2662e9-17e0-41b7-b810-238303c72ba8,Quý cô Chi Nguyễn,895080187247,02/01/2001,0331283473,anon_a89c029c@medviet-anon.vn,"74 Quý cô Xuân Vũ, 161324",Huyết áp cao,11.8,Bác Thành Trần,12/01/2026
+80bacd64-7a0e-4fea-958c-a9ba0cd620c2,Vân Phạm,741521842831,13/10/1960,0358988821,anon_bf278588@medviet-anon.vn,"939 Vân Phạm, 802258",Tiểu đường,6.29,Hải Đức Dương,26/01/2026
+750cab75-4ccc-4bc2-a53f-8a28abf3e3fc,Bà Chi Trần,309605385135,06/02/1949,0569565911,anon_3827ec1a@medviet-anon.vn,"354 Quý cô Thảo Nguyễn
+Huyện JohnQuận, 377312",Tim mạch,5.91,Kim Trần,31/01/2026
+35ebd32d-9ad6-40ab-8821-2ddb45b89cd9,Hạnh Hoàng,376765643943,25/12/2001,0717431792,anon_3ba6a3c8@medviet-anon.vn,"427 Hạnh Mai JohnXã, 137778",Khỏe mạnh,11.2,Chị Lâm Phạm,25/01/2026
+e623a689-5d59-4d2a-8eea-04e70ab54bde,Anh Châu Lê,224578965913,31/01/1964,0929756330,anon_22b68735@medviet-anon.vn,"2 Cô Thành Đặng, 872343",Tiểu đường,5.5,Phúc Mai Bảo Vũ,31/01/2026
+61ee411a-1bac-47a7-b386-f7a4c991603f,Bà Mai Trần,343822708827,07/10/1965,0312758349,anon_d635f64a@medviet-anon.vn,"036 Trọng Dương, 634150",Khỏe mạnh,9.21,Huy Dương,23/01/2026
+2db69edb-42de-4fcc-b86c-2ca2e08596db,Mai Hoàng,918367107339,21/08/1994,0874054514,anon_a9ee0a15@medviet-anon.vn,"06 Chị Hương Phạm, 446239",Khỏe mạnh,4.21,Phúc Mai,02/03/2026
+6703b636-5380-4904-a88c-7015aab97e49,An Dương,106384719203,08/08/1961,0377712297,anon_47275098@medviet-anon.vn,"80 Bác Minh Hoàng, 563246",Huyết áp cao,5.52,Nhiên Đức Bùi,04/06/2026
+bc67f831-cbc8-4759-b5b7-8cc7e6b3c944,Linh Bùi,337744897853,10/02/1981,0343064818,anon_b7027e50@medviet-anon.vn,"037 Thành Mai xã Thành Mai xã, 355836",Huyết áp cao,10.0,Duyên Trần,12/02/2026
+b227462c-f53d-4330-8dda-24ba2d06e8cf,Vi Mai,303737242300,04/01/1952,0574812228,anon_94f5adab@medviet-anon.vn,"98 Hương Trần JaneHuyện, 888295",Tim mạch,8.64,Quý cô Ánh Trần,05/04/2026
+709b7d97-464c-44af-bd3f-3799a07295e9,Huy Tấn Bùi,213968349286,29/05/1967,0883683553,anon_2203200a@medviet-anon.vn,"23 Chi Phạm xã, 165290",Tim mạch,6.22,Minh Hoàng Mai,16/05/2026
+c3fe0183-e172-4725-9b52-ca5805000bc6,Khoa Quang Bùi,006781996489,19/02/1976,0858442753,anon_98fffde5@medviet-anon.vn,"34 Chị Chi Hoàng, 812131",Tiểu đường,11.05,Lâm Quang Trần,28/06/2026
+88bc539c-9f4c-4b79-bb10-987f20ac3703,Thành Vũ,044431640628,08/03/1939,0843877449,anon_29db8d04@medviet-anon.vn,"53 Phúc Dương, 364525",Tim mạch,8.09,Trung Trần,26/05/2026
+f3b1025b-fff9-4585-8d55-7b618a175dfe,Khoa Mai,113663311094,19/09/1939,0758815712,anon_03818789@medviet-anon.vn,"19 Bà Ánh Mai, 736745",Khỏe mạnh,4.28,Duyên Trần,21/01/2026
+4fdc6e1b-edcb-4cb6-8692-dc639424aed5,Hà Đặng,866149309435,18/07/1968,0723520289,anon_9ef971e9@medviet-anon.vn,"Chị Kim Dương phố, 554582",Huyết áp cao,11.04,Chi Phạm,04/02/2026
+a6846099-f729-4951-8591-31d2bbda0242,Cô Xuân Phạm,595902542094,18/04/2001,0331704194,anon_67cf02c9@medviet-anon.vn,"473 Yến Phạm, 992288",Huyết áp cao,7.12,Chị Lâm Dương,10/03/2026
+4797b2c9-5720-4246-8223-623bcc3ebdde,Dương Phạm,494634258987,21/10/2005,0910406586,anon_06acd976@medviet-anon.vn,"7 Cô Hải Nguyễn xã, 825391",Tim mạch,8.93,Chị Hạnh Dương,13/03/2026
+58007c02-87ea-4ff5-8db0-674679279973,Thành Xuân Nguyễn,178203937283,31/03/1997,0566287237,anon_b0fee4a8@medviet-anon.vn,"823 Lan ĐặngJohnQuận, 410636",Tiểu đường,6.77,Bà Dương Phạm,03/01/2026
+4639447b-2067-4dac-88bd-13d1b540b30e,Mai Vũ,184481983035,03/04/1975,0724586510,anon_a0950c94@medviet-anon.vn,"75 Chị Hồng Bùi phố, 520172",Tim mạch,11.65,Bảo Thị Mai,30/01/2026
+f2f9e5fa-9016-4161-8fa7-01cd2631d00b,Quang Hải Vũ,575550812867,13/08/1951,0993556411,anon_200e77f0@medviet-anon.vn,"74 Bà Thành Bùi, 792509",Tiểu đường,5.26,Huy Hải Trần,03/02/2026
+00af5b3a-2812-459a-9337-739e8d4f5d27,Nhiên Đặng,081469476334,08/12/1939,0394154082,anon_97a13a68@medviet-anon.vn,"3 Quý ông Quang Bùi, 335729",Tim mạch,3.77,Hưng Lê,12/01/2026
+9854ce4e-4ebf-45c3-8ae9-b4a72a79ea68,Hải Phú Phạm,099986635549,14/04/1999,0510959589,anon_fe531435@medviet-anon.vn,"0 Thành Nguyễn JohnPhường, 976566",Khỏe mạnh,5.47,Anh Quang Đặng,22/04/2026
+2cd94cbb-c19a-458c-835b-1c8c0a4c9f7f,Yến Nguyễn,290029215352,25/10/1994,0760397231,anon_ab49b75a@medviet-anon.vn,"1 Bảo Đặng, 519904",Khỏe mạnh,10.99,Trọng Phạm,03/03/2026
+f85e06a1-1dad-49b2-92c2-1221409d3602,Tùng Xuân Phạm,479522912901,14/05/1998,0737102923,anon_db2fc4a5@medviet-anon.vn,"7 Trọng Vũ, 608257",Tiểu đường,3.69,Phương Dương,05/06/2026
+4f8d5238-288b-48b5-b5b4-53ca3d42993c,Linh Vũ,368249968318,06/03/1948,0700430288,anon_8c715842@medviet-anon.vn,"48 Phương Văn Phạm, 678043",Tim mạch,9.52,Bà Dương Hoàng,09/04/2026
+dd30de89-22f2-45f2-a11b-868dbf0d073d,Hạnh Quang Trần,070040592292,01/10/1981,0368704375,anon_ec523981@medviet-anon.vn,"787 Khoa Vũ, 831380",Khỏe mạnh,3.83,Thành Thế Đặng,09/01/2026
+b489d070-7914-48a8-bea4-ff31517400f8,Trọng Trí Vũ,673384609010,13/07/1940,0910612309,anon_a37cb671@medviet-anon.vn,"262 Trọng Mai Bảo TrầnJanePhường, 184216",Khỏe mạnh,9.17,Quang Bùi,02/05/2026
+7cea2045-c268-483e-a32f-2e63b7fddd71,Châu Xuân Hoàng,413666387065,12/06/1967,0982588186,anon_699dc629@medviet-anon.vn,"24 Vân Vũ
+Huyện JaneHuyện, 551607",Khỏe mạnh,10.17,Anh Anh Vũ,20/04/2026
+2b840c67-2e18-4554-8ae2-8e66ae8a7813,Anh Mai,799251467557,08/04/1968,0969125936,anon_b9a06ff9@medviet-anon.vn,"40 Bà Ngọc Đặng JaneXã, 413685",Huyết áp cao,4.96,Lâm Dương,14/06/2026
+627b41a1-ffd6-4232-b2ff-e2944d57d880,Bà Vân Lê,075310087069,06/05/1984,0717572290,anon_f67a23c3@medviet-anon.vn,"7 Chị Duyên Nguyễn, 892280",Khỏe mạnh,7.65,Bác Huy Phạm,01/03/2026
+945ef2e4-088a-43ec-b0d9-c9f8c9e26074,Khoa Đặng,055357148773,17/12/1979,0747391995,anon_d8bc9077@medviet-anon.vn,"8 An Phú Phạm, 455168",Tim mạch,9.78,Khoa Đức Mai,28/01/2026
+dc322c97-39c1-4262-b76c-8edec1101266,Cô Mai Bùi,064567536994,12/03/1989,0857565918,anon_f428a9f1@medviet-anon.vn,"6 Nhiên Mai, 688678",Tiểu đường,8.44,Kim Trần,04/05/2026
+b379cb1e-e8cd-40cc-b6da-3ca0d2e82f38,Thảo Bùi,084102472801,08/07/1954,0969899220,anon_cf34cf95@medviet-anon.vn,"2 Nhật Nguyễn, 786735",Huyết áp cao,9.21,Chi Đặng,21/03/2026
+08601833-479d-4cda-b396-ea37f065c817,Quý ông Huy Dương,542652302865,18/08/1967,0879331868,anon_d06dd52d@medviet-anon.vn,"31 Hà Vũ JaneQuận, 232040",Huyết áp cao,5.07,Quý ông Nam Phạm,10/02/2026
+dea45c19-d024-4d72-b748-967f961d33ba,Hà Lê,803255883631,17/11/1935,0765403014,anon_a299e323@medviet-anon.vn,"0 Chi Trần
+Huyện JohnQuận, 378258",Tiểu đường,9.64,Quang Đức Hoàng,13/04/2026
+79eb4168-1045-46e5-bee3-eb791d181ee9,Bác Hoàng Hoàng,920233601893,03/05/1950,0713952486,anon_7b15cf6d@medviet-anon.vn,"00 Khoa Thị Hoàng JaneThành phố, 184714",Tim mạch,7.08,Chị Hải Vũ,25/01/2026
+95da75c1-a211-40f9-9fd3-4579466772ce,Tú Vũ,097072669690,19/04/2004,0883148859,anon_9aff1c38@medviet-anon.vn,"73 Châu Trần, 199704",Khỏe mạnh,8.74,Ngọc Phạm,14/03/2026
+ec48bf55-afd3-40c4-a713-582cf41ea3ac,Hạnh Dương,876986294789,07/03/1948,0535324576,anon_64db31a5@medviet-anon.vn,"0 Lâm Xuân Dương, 153945",Khỏe mạnh,8.95,Vân Hoàng,10/03/2026
+36760ce5-81e5-49f6-93f2-77cc1a85910d,Lâm Mai,211731700203,22/02/1983,0987397806,anon_119c076a@medviet-anon.vn,"4 Khoa Thế Phạm, 106402",Tim mạch,4.8,Kim Hoàng,14/01/2026
+f8c88fae-a217-4f84-bdb0-25ff2451e5a4,Nhiên Hải Bùi,585998047403,09/10/1964,0846241592,anon_1821b11c@medviet-anon.vn,"5 Tùng Thế Nguyễn phố JohnHuyện, 564637",Tiểu đường,7.64,Bà Ngọc Đặng,23/02/2026
+1d2324e6-8329-40b7-8143-f426372f871a,Chị Bảo Dương,076434736527,21/09/2001,0510856699,anon_f9c14274@medviet-anon.vn,"32 Ông Tú Vũ JanePhường, 551574",Khỏe mạnh,5.92,Nam Phạm,17/05/2026
+d556b37d-8f08-41ee-8011-316b3ae88926,An Mai,939708082596,11/11/1994,0515169122,anon_ab273e6f@medviet-anon.vn,"6 Bà Hải Đặng, 582446",Tiểu đường,8.27,Dũng Mai Bảo Hoàng,17/02/2026
+862268d1-6683-4107-96c0-44d06f887f28,Phương Hoàng Mai,264427947134,13/09/1981,0914670195,anon_f97660f3@medviet-anon.vn,"8 Jane Tổ
+Quận JohnQuận, 368402",Tiểu đường,5.52,Chị An Mai,28/05/2026
+2d5972c6-134a-4a2f-a7cf-705cc257cf73,Lâm Hải Hoàng,936879333660,03/08/1996,0324657879,anon_e3bc0c29@medviet-anon.vn,"90 Dũng Mai, 139434",Khỏe mạnh,11.52,Hà Đức Vũ,15/01/2026
+daf481a7-fa34-42e8-9d3f-7d7ea508dc95,Bác Khoa Vũ,794994759556,03/07/2004,0825126628,anon_b406fccf@medviet-anon.vn,"93 Quý cô Mai Nguyễn JaneThành phố, 950360",Huyết áp cao,4.7,Bà Yến Bùi,18/02/2026
+707df251-fdb1-429e-b010-ed13b526b22d,Lâm Thế Đặng,131661970175,21/03/1988,0536345735,anon_add6bc7a@medviet-anon.vn,"518 Nhật Hải Bùi, 795847",Tim mạch,10.23,Bác Châu Dương,26/01/2026
+15b02530-f020-4992-b576-255e98549f22,Chị Xuân Bùi,334746894949,13/03/1980,0816907254,anon_cace054b@medviet-anon.vn,"23 Hải Phú Trần phố, 410160",Tiểu đường,6.42,An Phạm,12/06/2026
+09a9d1c1-86ca-46f4-a238-fe93bd17c5e8,Hạnh Đức Lê,408677942946,06/10/1986,0975371498,anon_11cafd3d@medviet-anon.vn,"7 Jane Tổ
+Thị xã JanePhường, 921874",Huyết áp cao,5.32,Quý ông Nam Trần,02/03/2026
+78116802-c8cc-4cfe-8f01-f944f7315749,Cô Yến Bùi,893394242058,17/06/1995,0876308761,anon_8cc2d263@medviet-anon.vn,"392 Hải Trí Mai, 986982",Khỏe mạnh,4.71,Chị Dương Nguyễn,29/05/2026
+e7c225da-7306-4588-85d5-a68d290a3abb,Chị Xuân Bùi,495577836466,21/11/1996,0598330605,anon_d5b1829d@medviet-anon.vn,"15 Hải Vũ
+Huyện JohnQuận, 140163",Tiểu đường,5.95,Thành Dương,28/05/2026
+9d8776a0-72d7-4bdd-b817-99ffb49e04cc,Quang Hải Mai,660009897913,29/01/1938,0941372893,anon_5a6729b9@medviet-anon.vn,"434 Vân Mai phố, 216242",Tim mạch,7.24,Thành Trí Hoàng,16/02/2026
+6de299a1-4a90-4d0c-a4c1-73b9b7f28572,Khoa Hoàng Mai,067565198885,26/03/1968,0953536926,anon_4cf03ff7@medviet-anon.vn,"Thành Dương xã JaneHuyện, 883618",Khỏe mạnh,5.56,Lâm Hoàng Vũ,08/03/2026
+a0d572c8-a837-4e68-bba2-05ca3dba6da8,Nhật Bảo Bùi,991930082910,25/08/1953,0365556659,anon_018e6593@medviet-anon.vn,"7 An Đức Mai, 311383",Khỏe mạnh,7.51,Hồng Dương,22/06/2026
+4f612217-eef1-4694-90ca-e32d0aba590e,Cô Ánh Hoàng,724378724616,23/06/1940,0542027329,anon_449a1727@medviet-anon.vn,"15 Quý ông Huy Mai, 620306",Khỏe mạnh,4.98,Chị Lâm Dương,05/06/2026
+14348f62-6cac-428c-ba22-006515260718,Ngọc Đặng,050126417230,23/06/1975,0519865488,anon_b35215ca@medviet-anon.vn,"6 Jane Tổ
+JohnPhường, 469685",Khỏe mạnh,10.06,Khoa Hải Lê,11/05/2026
+83599af6-5d01-455f-a7fd-64c4a334058a,Thành Tấn Nguyễn,025439629565,16/02/1995,0316580534,anon_4a718db1@medviet-anon.vn,"69 Hà Bảo Lê xã, 900152",Tim mạch,10.2,Ông Hoàng Đặng,13/04/2026
+a6499cdc-507b-4072-a5e5-8f345df06e8c,Vũ Đức Phạm,334152272480,08/01/1939,0818961348,anon_2f2a63d4@medviet-anon.vn,"47 Hạnh Thế Phạm phố JohnThành phố, 574001",Khỏe mạnh,4.88,Bà Lâm Dương,10/05/2026
+8ccc9cea-109f-48ee-b5a4-720058f0dd23,Thành Đức Hoàng,232765720623,10/03/1959,0560463801,anon_3c6e99c2@medviet-anon.vn,"589 Trung Phú Dương JaneThị xã, 851759",Tim mạch,10.42,Ông Tùng Bùi,15/01/2026
+a4704d48-5128-49b1-b8ed-e0ca20156a72,An Nguyễn,179559321299,27/11/2005,0892454850,anon_45cba4e6@medviet-anon.vn,"80 Quý cô Nhật Đặng, 336422",Tiểu đường,7.25,Cô Ngọc Trần,18/02/2026
+8d03f17a-f4d3-45c1-a293-19fa3240d7a1,Hưng Nguyễn,448185475475,06/02/2008,0873395996,anon_81709cbd@medviet-anon.vn,"995 Kim Bùi JohnXã, 536822",Tiểu đường,6.43,Anh Nhiên Trần,26/02/2026
+7ba24588-4d56-4a3d-b4e7-069aa4540937,Bảo Dương,862928999856,04/06/1945,0870897386,anon_e05f63ad@medviet-anon.vn,"92 Quý cô Phương Vũ, 639995",Tim mạch,4.99,Bà Hương Vũ,01/04/2026
+3f779cae-7318-496d-8479-06121f5d988f,Bảo Mai Phạm,878956718768,11/10/1987,0532009213,anon_c2198a55@medviet-anon.vn,"278 Hà Phú Bùi, 512344",Khỏe mạnh,4.87,Tú Hoàng Phạm,10/03/2026
+7eb162f1-4806-4804-8cf0-374c0c74dc0f,Minh Mai Bảo Bùi,445602743045,14/02/1950,0926323620,anon_7a2583e3@medviet-anon.vn,"06 Hưng Xuân Dương xã, 628750",Tiểu đường,7.56,Nhật Hoàng,24/01/2026
+64d6dfbf-18c0-4e2b-b99f-070420f0156a,Nhật Đặng,325198456185,02/08/1962,0521616013,anon_53066d68@medviet-anon.vn,"87 Mai Phạm xã, 746447",Tiểu đường,3.78,Bác Hưng Trần,09/04/2026
+7d66971e-8847-4c56-827c-9f8cd40ac5e9,Hải Hoàng,460546863269,17/08/1985,0312009279,anon_50b188c6@medviet-anon.vn,"7 Bác Khoa Vũ JohnXã, 759580",Tiểu đường,3.78,Thành Hoàng,22/04/2026
+30d73df7-1c22-4cea-b355-56a5f2bd92f2,Bảo Vũ,261062281321,27/06/1992,0576672335,anon_9081842d@medviet-anon.vn,"0 Yến Hoàng
+JaneHuyện, 281594",Tiểu đường,8.14,Phương Trí Bùi,12/05/2026
+ae455cc6-b88e-430f-9e1e-994ac5a11f5c,Huy Hoàng Đặng,141921841494,29/08/1961,0746090171,anon_7efecedd@medviet-anon.vn,"37 Nhật Phú Dương, 701334",Khỏe mạnh,11.81,Cô Thảo Đặng,26/02/2026
+b6d1f6bb-f48f-409c-89a2-24410ac4de85,Cô Lan Trần,195845899977,24/05/1970,0876490221,anon_e82e63cb@medviet-anon.vn,"199 Anh Minh Trần JohnThành phố, 533377",Khỏe mạnh,9.46,Quý cô Hải Đặng,02/01/2026
+edd97a1a-fa58-4b27-8ce3-e7c3f6eab3a0,Bà Duyên Nguyễn,148179844497,22/06/2000,0825241754,anon_424f2998@medviet-anon.vn,"9 Dũng Trí Hoàng phố, 976822",Tiểu đường,10.26,Quý cô Lan Dương,20/06/2026
+9165f2ed-4c63-4e95-825f-55430997623a,Hải Mai Vũ,966990729580,30/04/1997,0584184358,anon_ef1d6f76@medviet-anon.vn,"27 Chị Lâm Mai, 807160",Khỏe mạnh,6.99,Khoa Trần,10/06/2026
+1634725b-53f3-4073-83e9-6ef46d7df5d0,Ông Phúc Vũ,479916750648,18/08/1954,0930421252,anon_b2d573dd@medviet-anon.vn,"45 Quý cô Linh Lê, 347781",Huyết áp cao,6.4,An Tấn Trần,01/04/2026
+afa28559-67c9-4204-a8e3-33b64e8adc4b,Hưng Mai Bảo Bùi,083128191129,07/07/1985,0701676000,anon_47af1a39@medviet-anon.vn,"87 Hưng Bảo Phạm phố, 691573",Tiểu đường,3.64,Thành Bùi,25/06/2026
+89628f6e-929c-43b3-b3c0-8bf18167999f,Xuân Phạm,584243529505,18/08/1995,0357156823,anon_6df95f01@medviet-anon.vn,"728 Bà Mai Nguyễn, 122827",Tim mạch,8.14,Cô Hồng Bùi,23/04/2026
+58330b30-6c77-4e95-8b98-1ccd12b2102d,Trọng Thị Trần,377556001455,19/11/1944,0866253278,anon_3858856f@medviet-anon.vn,"6 Hồng Nguyễn, 815894",Tim mạch,9.01,Hương Vũ,15/04/2026
+ba54e920-2099-4180-8762-3997649f7d88,Hồng Hoàng,858019236376,06/02/1976,0758588476,anon_46d4629e@medviet-anon.vn,"752 Nhật Hữu Hoàng JohnQuận, 316092",Tim mạch,7.87,Châu Thị Dương,07/01/2026
+b40a9181-ac09-4db7-9908-6e477249f62c,Ông Huy Dương,894207687930,29/03/1990,0536455832,anon_ccad0b98@medviet-anon.vn,"Quý cô Dương Hoàng, 646571",Huyết áp cao,5.52,Ông Tú Bùi,12/01/2026
+e134edfc-9777-4f10-b2d2-393f8e85140d,Quang Dương,681537005735,15/11/1941,0546902186,anon_9f6139bd@medviet-anon.vn,"62 Chị Hải Đặng, 160423",Tim mạch,9.51,Chị Yến Mai,17/02/2026
+a58e83dd-548c-4d84-b40d-e04941476506,Hồng Hoàng,211750238646,29/01/1948,0512099179,anon_7c78c878@medviet-anon.vn,"398 Hải Trí Trần phố, 322096",Tiểu đường,9.32,Minh Hoàng,27/06/2026
+b42a2d93-9aba-4f15-b214-90623e1a963e,Tùng Phạm,139550645078,07/04/1979,0958879233,anon_da87cb1b@medviet-anon.vn,"87 Thảo Trần, 428122",Khỏe mạnh,5.77,Châu Thế Phạm,04/01/2026
+95831d58-ef4c-4119-8da5-d39b42c21797,Bà Linh Trần,834658326328,21/05/1980,0923288227,anon_289bf682@medviet-anon.vn,"77 Dũng Lê, 668471",Huyết áp cao,10.77,Hải Thị Trần,12/06/2026
+d1682e09-f1f7-4904-9307-5157d8c128e7,Huy Dương,887906550872,15/08/1991,0330714941,anon_e88bbb72@medviet-anon.vn,"7 Minh Dương, 658065",Tiểu đường,8.57,Cô Thành Dương,21/05/2026
+49646b96-fa3c-4628-8926-21df465568b7,Quý ông Thành Mai,995876790561,22/11/1959,0838801153,anon_3228d756@medviet-anon.vn,"46 Hương Vũ, 336828",Tiểu đường,11.9,Bảo Xuân Lê,19/01/2026
+8d7dd772-608e-4f5c-a117-727067c0518b,Quý cô Thành Phạm,353388621201,30/09/1946,0934766923,anon_2aa1137c@medviet-anon.vn,"0 Hải Bùi phố, 817675",Tiểu đường,9.62,Huy Hữu Dương,08/05/2026
+d9b59f84-edc3-41c3-adea-2d2d086c405f,Quý cô Khoa Đặng,719493405618,12/02/1955,0777993743,anon_1a7e8220@medviet-anon.vn,"8 Quang Phạm phố, 558320",Khỏe mạnh,10.01,Chị Phương Phạm,30/05/2026
+658e54a2-9879-4f35-b471-99869d264599,An Đặng,732861992794,07/04/2002,0753752426,anon_e9a9ab30@medviet-anon.vn,"943 Quý ông Tú Mai JohnPhường, 508548",Huyết áp cao,4.07,Trung Bùi,02/01/2026
+5c238d8d-71da-45b9-8eea-9db8f165d779,Quý ông Phúc Vũ,178174502006,17/05/1947,0768964029,anon_3bb3daa9@medviet-anon.vn,"015 Dũng Hoàng xã, 917018",Tim mạch,3.7,Hương Lê,25/06/2026
+926bffa5-3e24-4fbf-ba69-8cd2fe2390f3,Huy Thế Dương,836491417784,04/02/1972,0928366935,anon_28d1adbd@medviet-anon.vn,"47 Xuân Dương xã JohnThị xã, 212168",Tim mạch,8.85,Quang Trí Đặng,06/03/2026
+cdd7f460-6140-47d3-9ec4-ea48d773f98d,Vũ Lê,652525407587,07/01/1954,0772055974,anon_bee42c63@medviet-anon.vn,"47 Bác Châu Hoàng, 219420",Tim mạch,4.05,Tùng Hoàng Dương,06/01/2026
+f166cdcf-762c-4fbc-ba2a-a7baf3f81c31,Cô Duyên Hoàng,205173133632,26/11/1944,0709742603,anon_4cd1b1a6@medviet-anon.vn,"Cô Khoa Bùi, 520274",Tiểu đường,11.59,Quý cô Phương Bùi,17/05/2026
+98049562-8972-4bbd-8ff2-b1c4e53f9644,Anh Trọng Dương,776625053819,23/10/1983,0501773048,anon_184b223e@medviet-anon.vn,"61 Bà Thảo Hoàng, 510133",Tim mạch,11.11,Minh Trí Lê,04/04/2026
+eba900e1-6a7d-4d96-8ba1-72331ac3bf31,Xuân Hoàng,873719346558,25/11/1982,0366977450,anon_d2c250fb@medviet-anon.vn,"775 Khoa Dương phố JanePhường, 214675",Huyết áp cao,5.66,Bảo Thị Mai,18/04/2026
+6d268b37-8f52-42d3-94bb-bcf828fea761,Quý cô Hà Bùi,881113054193,10/11/1960,0592749896,anon_33a69fdd@medviet-anon.vn,"96 Quý cô Khoa Lê, 206694",Tiểu đường,3.94,Ngọc Đặng,30/03/2026
+dcd5bfae-abb3-46a7-8329-97801d2c2721,Bà Linh Mai,243500864960,01/12/1988,0336838007,anon_949847fc@medviet-anon.vn,"9 Bà Hải Đặng phố, 291936",Khỏe mạnh,4.68,Kim Nguyễn,26/04/2026
+6c4c450b-623a-40fc-9326-7d25234b4562,Phương Hoàng,683251339950,26/01/1959,0822928622,anon_78242767@medviet-anon.vn,"0 Phương Tấn Phạm, 629990",Huyết áp cao,4.98,Bác Quang Nguyễn,18/05/2026
+2ad11fe8-7d1b-495e-b1a0-449dd703262f,Nhật Mai Mai,877189554969,04/07/1965,0925866526,anon_5a47e5b4@medviet-anon.vn,"7 Duyên Phạm, 562806",Huyết áp cao,10.17,Ông Tú Lê,27/02/2026
+7321a8b2-0840-405a-bfd2-f491dff389aa,Anh Bảo Hoàng,059433977824,02/04/1995,0351666625,anon_fa9bd626@medviet-anon.vn,"9 Hoàng Đặng, 467856",Huyết áp cao,6.31,Nhật Nguyễn,02/02/2026
+4aea1b8f-b43c-4e0a-ba9f-c10e52daf681,An Hoàng Dương,559114215433,03/07/2005,0536000453,anon_939f49dc@medviet-anon.vn,"Quận JohnQuận
+672 Hải Trí Phạm, 573947",Tim mạch,11.29,Lan Phạm,20/03/2026
+b1d81887-4739-4c7b-bff3-0c8d83ff3e96,Bà Duyên Vũ,842286057415,30/10/1935,0559850808,anon_0f01645a@medviet-anon.vn,"637 Quý cô Lan Hoàng, 993829",Tiểu đường,9.38,Chị Hà Vũ,20/01/2026
+75a72686-d632-4d31-88ac-ffcfa04d4d14,Nhật Trần,985228989903,21/07/1995,0316577422,anon_e220f8e0@medviet-anon.vn,"Huyện JohnHuyện
+5 Quý cô Mai Bùi, 796787",Tiểu đường,10.53,Lan Hoàng,21/05/2026
+6de21429-3bf0-49c1-8156-e501b30e96e8,Ông Minh Lê,483642857013,23/08/1935,0583968559,anon_dae1a51e@medviet-anon.vn,"051 Chị Hà Bùi phố, 866260",Tiểu đường,7.86,Hải Vũ,13/03/2026
+61fa01ba-231a-47c7-8c9b-ff5ce1887eaf,Duyên Trần,737189354073,24/08/1936,0741863411,anon_df0b8af8@medviet-anon.vn,"97 Hải Văn Phạm phố JaneHuyện, 550246",Tim mạch,9.13,Chị Khoa Bùi,06/05/2026
+99db1302-8dab-46d3-bf87-dfc2159152f2,Khoa Lê,462597086287,15/06/1963,0983483012,anon_84888318@medviet-anon.vn,"61 Quý ông Bảo Bùi, 505629",Tiểu đường,5.6,Phúc Vũ,30/05/2026
+1149d096-965d-444f-8445-c1a812af97e4,An Thị Trần,029109076430,29/11/1940,0750841613,anon_781d19b8@medviet-anon.vn,"61 Bà Khoa Mai, 313068",Khỏe mạnh,5.62,Phúc Thị Phạm,04/05/2026
+ae59aa52-a65b-422b-95a3-86d9c362a810,Bác Huy Hoàng,194640848130,21/12/1967,0524881868,anon_77acb9a7@medviet-anon.vn,"21 Thành Dương xã JaneXã, 642347",Tim mạch,6.84,Quý cô Vân Hoàng,25/01/2026
+44cdbfdd-df9b-441e-87f7-bda1bff15840,Tú Văn Nguyễn,687467931887,03/12/1993,0541178338,anon_ee95a75d@medviet-anon.vn,"5 Chị Dương Bùi, 910894",Tiểu đường,7.79,Trọng Văn Bùi,14/02/2026
+0b461173-00a8-4473-8242-5912bda3c162,Trọng Bảo Lê,151368116937,13/09/1999,0963981642,anon_db913a26@medviet-anon.vn,"536 Kim Đặng, 806033",Huyết áp cao,5.68,Bác Trung Lê,06/06/2026
+f43e8c48-0bc1-49e5-bb3d-f0638409c5ea,Hà Mai,733545660786,11/10/1977,0540996541,anon_88aab1d4@medviet-anon.vn,"4 Jane Tổ
+JohnPhường, 673108",Tiểu đường,3.86,An Mai,05/01/2026
+a2cd1590-58af-493c-8aa2-b4c93ba5bd76,Chi Lê,634995128163,14/09/1986,0369874958,anon_fea2c871@medviet-anon.vn,"410 Chi Bùi
+JohnXã, 200219",Tiểu đường,5.85,Kim Đặng,21/04/2026
+f6d70248-a995-4cc3-af5b-09a60ff1c51f,Thành Thị Trần,742624450134,14/05/1978,0598493182,anon_b32ceb0d@medviet-anon.vn,"291 An Dương, 526259",Tim mạch,4.25,Nhật Hải Trần,30/05/2026
+769de1e3-4eed-4124-b3b0-d6763527a5c8,Linh Mai,129577812801,11/12/1956,0510652513,anon_35bb0d81@medviet-anon.vn,"68 Lâm Xuân Lê phố Lâm Xuân Lê xã, 682959",Tim mạch,6.66,Thảo Trần,06/06/2026
+030f9be9-1f17-4f93-a3c9-7a1ecb371d97,Ông Anh Vũ,608543191685,13/04/1953,0831144804,anon_ad10c52c@medviet-anon.vn,"9 Nhật Nguyễn, 196446",Tiểu đường,6.8,Minh Hoàng Trần,10/01/2026
+6ee35607-92ea-4324-ac93-e5962b015723,Quý cô Lâm Lê,839584356776,24/07/1993,0325864449,anon_c0a8b058@medviet-anon.vn,"099 Phương Đặng phố, 191982",Khỏe mạnh,6.41,An Đức Vũ,23/03/2026
+cc152a1b-e278-4642-a484-e035330faaa3,Bà Hà Vũ,972062689588,11/10/2000,0784136880,anon_5500483c@medviet-anon.vn,"059 Vũ Hải Bùi xã JaneXã, 344068",Tim mạch,10.0,Anh Mai,21/02/2026
+ead18464-ca8e-458c-90f8-1063889fe107,Hải Hoàng Trần,353579842623,10/05/1988,0562227846,anon_5d0ea99e@medviet-anon.vn,"0 Bà Hương Nguyễn JaneQuận, 614259",Tiểu đường,7.84,Cô Hồng Trần,15/02/2026
+86c5547c-051a-4039-b803-dcee9a069295,Anh Thành Lê,496116683835,29/11/1962,0970419103,anon_36301c3d@medviet-anon.vn,"2 Cô Hương Trần, 205939",Khỏe mạnh,7.54,Cô Duyên Lê,31/01/2026
+cab63107-6fd6-4b3a-b2dd-9456bb7b6c05,Hà Bùi,894187333043,21/01/1984,0391302595,anon_bc417b9c@medviet-anon.vn,"209 Anh Hải Dương, 693022",Tiểu đường,10.26,Linh Lê,06/03/2026
+58c88c48-3ced-4d1f-93eb-22c9beced21a,Anh Vũ Nguyễn,731812485771,12/04/1996,0556328429,anon_92a01bb4@medviet-anon.vn,"10 Cô Lâm Trần xã, 617033",Tim mạch,11.44,Vi Lê,10/06/2026
+93fb71d0-dd32-4d9c-89ea-356a7abfcebf,Dũng Đức Trần,891212991924,15/01/1940,0994238571,anon_b9c2a1ce@medviet-anon.vn,"21 Thành Lê xã JohnXã, 555292",Tim mạch,3.92,An Thế Trần,09/02/2026
+b27b7bb4-68c6-40b2-b0a2-cee8f9722cc1,Chị Ánh Bùi,170468920405,28/10/1967,0502342078,anon_26d69cf8@medviet-anon.vn,"050 Quý cô Hà Vũ, 126985",Huyết áp cao,9.66,Thành Hoàng Dương,16/01/2026
+4ef03f80-1d91-4e39-9801-4004793bed1b,Tú Văn Vũ,384005806961,24/11/1947,0523325260,anon_6974c89e@medviet-anon.vn,"477 Hạnh Đức Hoàng phố, 800596",Khỏe mạnh,4.52,Quý cô Yến Phạm,14/02/2026
+6319629b-d73e-4bb9-8f9c-a17b8db8dadf,Chị Nhật Lê,262540957619,25/07/1967,0963771425,anon_31e5dfad@medviet-anon.vn,"9 Trọng Hoàng Hoàng JohnQuận, 232315",Huyết áp cao,7.14,Ông Châu Vũ,13/05/2026
+d2938e6e-ff4d-4930-b3b0-fb536f75ee8a,Duyên Đặng,874445232315,04/05/1947,0781469111,anon_068b7511@medviet-anon.vn,"7 Quang Đức Bùi, 694116",Huyết áp cao,5.86,Yến Hoàng,01/06/2026
+de12dbf1-493d-4196-8926-a02119da8262,Vũ Phú Trần,246135197726,31/07/2001,0396365302,anon_57d8fbbc@medviet-anon.vn,"653 Quang Vũ, 957091",Tiểu đường,10.27,Mai Đặng,13/06/2026
+af527666-b239-49f4-9bb5-46457ddac1b6,Huy Lê,891204071835,21/05/1976,0834017972,anon_828f314f@medviet-anon.vn,"736 Quý ông Bảo Mai, 844037",Khỏe mạnh,10.9,Chị Mai Dương,07/02/2026
+d6441a9d-3362-4476-953a-e57fe00bd534,Ông Trọng Lê,576665237280,13/08/1997,0946201096,anon_64a5201d@medviet-anon.vn,"6 Chị Hà Bùi, 567773",Tiểu đường,7.38,Bác Hoàng Dương,09/03/2026
+e4fd6c34-d670-4a21-a9dc-073e5820b3f2,Khoa Văn Lê,662878632425,25/03/1939,0853549841,anon_246a7cf4@medviet-anon.vn,"334 Khoa Bảo Vũ JohnPhường, 281614",Tiểu đường,9.45,Chị Xuân Phạm,29/04/2026
+b676291d-4e32-4b4b-b168-c605ce1a1669,Quý ông Châu Lê,114670563147,14/12/1982,0760314851,anon_9c855433@medviet-anon.vn,"1 Cô Thành Đặng xã, 166938",Tiểu đường,8.53,Chị Thảo Bùi,20/02/2026
+e4729be5-f3c2-444a-b60a-3dcca7f77451,Hồng Dương,435851434031,23/11/2005,0720579822,anon_ddfa6262@medviet-anon.vn,"0 Chi Trần, 872519",Huyết áp cao,6.97,Chị Hải Trần,08/06/2026
+b69f5eab-b9ff-4c29-97d9-cbb0309e47ba,Hà Bảo Phạm,418559321519,15/07/2004,0750272144,anon_f29ed431@medviet-anon.vn,"4 Quý ông Hưng Mai, 422002",Huyết áp cao,8.32,Bảo Văn Nguyễn,24/04/2026
+1e26ed31-d9e9-4758-b6b9-04364b46ef33,Quý cô Bảo Dương,889528780047,09/03/1945,0327266220,anon_f25c2862@medviet-anon.vn,"4 Hạnh Mai Nguyễn xã, 697062",Tim mạch,7.29,Mai Đặng,01/06/2026
+a18b5d15-5527-4407-bcd2-192f14b00f62,Chị Hà Phạm,488605181499,19/02/1936,0364541749,anon_92a7a592@medviet-anon.vn,"12 Chị Hải Lê, 104895",Tiểu đường,4.81,Cô Hương Nguyễn,22/05/2026
+e45a87e8-039a-4ed5-b337-b2615f8392d5,Chị Mai Bùi,909341630504,20/01/1936,0940715546,anon_979d969b@medviet-anon.vn,"9 Hương Hoàng xã, 863187",Huyết áp cao,7.37,Hà Vũ,25/06/2026
+303cb04b-c007-4336-9bf7-dda17d7c59a5,Anh Hoàng Dương,096108822681,09/01/1966,0730425571,anon_dbe4cbe5@medviet-anon.vn,"06 Quý ông Trung Trần JohnThành phố, 823255",Tim mạch,9.86,Quý cô Chi Trần,15/03/2026
+797209c0-40b3-44f8-8c1a-b2c71fa3ed1f,Huy Lê,913341298083,22/06/1976,0710860476,anon_ca7d87b5@medviet-anon.vn,"18 Hạnh Văn Mai xã JohnXã, 309452",Tim mạch,9.98,Hạnh Nguyễn,11/03/2026
+290e3e89-4b9c-42f4-a8e5-c8cdb4146e4a,Bảo Trí Mai,940484655673,05/10/1963,0505500326,anon_9b2f58d4@medviet-anon.vn,"972 Anh Tú Đặng xã, 410401",Tiểu đường,8.22,Anh Hữu Đặng,20/01/2026
+0a190939-dfc7-4b26-acb9-41fcd02c75f9,Quý ông Minh Dương,947338131078,21/06/1993,0809132106,anon_74656c39@medviet-anon.vn,"57 Bà Yến Nguyễn, 520245",Tim mạch,3.62,Huy Trí Bùi,14/05/2026
+6bf7240f-ccc6-4fed-ba6e-43d0d9c59cd9,Nhật Văn Mai,818768032165,09/03/1957,0568514925,anon_e58bbc8f@medviet-anon.vn,"6 Chị Thành Đặng JaneThành phố, 531262",Tim mạch,8.1,Vũ Hữu Nguyễn,08/05/2026
+de4b061e-b45e-4463-832a-09e05071e5f0,Tú Bùi,014959881265,15/06/1948,0352637267,anon_4186eb8a@medviet-anon.vn,"890 Thảo Mai phố, 887931",Tiểu đường,4.22,Cô Mai Bùi,24/02/2026
+8ced4707-3903-4b65-81c6-1eeb0ce3c8c8,Minh Hoàng Hoàng,710778136297,22/12/1997,0931292494,anon_ff2cfd3c@medviet-anon.vn,"17 Quý cô Vân Trần, 675771",Tim mạch,4.01,Anh Minh Hoàng,03/06/2026
+a335b2c8-9e7b-4e95-b692-641a9aad10ce,Nhật Hoàng,445760103249,24/08/1963,0590534315,anon_40d7b6bb@medviet-anon.vn,"89 Ông Dũng Mai JohnThành phố, 457938",Tiểu đường,9.0,Quý cô Thành Nguyễn,09/01/2026
+23f47a55-7e0f-40b2-aa06-1609e599bd3c,Chị Kim Mai,435832150654,27/02/1962,0528200668,anon_e3c389bc@medviet-anon.vn,"5 Dương Bùi xã JanePhường, 717942",Huyết áp cao,6.87,Hạnh Dương,23/05/2026
+6ecca931-ef70-4d01-8da0-3d880c6f3051,Phương Vũ,139656754141,18/12/1952,0853127049,anon_ac292041@medviet-anon.vn,"3 Thảo Hoàng, 244892",Khỏe mạnh,9.67,Cô An Hoàng,17/06/2026
+ef7db821-bca0-458e-b63d-65d5505c7527,Trung Mai Bảo Nguyễn,559823784557,15/01/1975,0562119004,anon_b11c38d3@medviet-anon.vn,"1 Cô Lan Nguyễn, 947568",Khỏe mạnh,5.9,Anh Tùng Mai,05/01/2026
+ab95c72f-0d95-4af5-a534-21bc6180b78a,Anh Vũ Lê,939160156902,25/05/1957,0594788466,anon_abc42364@medviet-anon.vn,"0 Thành Hữu Đặng JohnXã, 922405",Huyết áp cao,8.62,Vân Lê,17/03/2026
+f9cf8499-c9c1-4d45-b4ea-6b976aa415b5,Bà Duyên Dương,833611297786,13/09/1969,0958427697,anon_1791768f@medviet-anon.vn,"8 Nhật Phạm, 178086",Tiểu đường,3.51,Chị Yến Mai,24/01/2026
+4773e66a-6db2-4020-8a67-01436090103c,Tú Đức Bùi,553260479194,14/03/1970,0553807876,anon_6c7e9a87@medviet-anon.vn,"590 Vân Phạm, 645895",Tiểu đường,10.02,Quý ông Minh Đặng,22/03/2026
+1789be63-6746-4743-897b-303d8b074d1a,Bác Thành Mai,052925595549,20/07/1980,0390525994,anon_6424b436@medviet-anon.vn,"573 Thành Mai Bảo Nguyễn xã, 369054",Tiểu đường,7.75,Nhiên Phạm,09/06/2026
+cd8565ce-83a9-4235-9ffd-4015c53f1db3,Bảo Thị Hoàng,712080748541,10/09/1961,0762866735,anon_d1181b9f@medviet-anon.vn,"361 Hà Văn Dương phố JanePhường, 447828",Tim mạch,6.18,Quý cô Duyên Phạm,11/01/2026
+8ede9b46-407d-4aff-8b51-a9112d90e4ee,Hải Văn Vũ,893149301365,11/09/1970,0754176205,anon_bd43cf05@medviet-anon.vn,"618 Mai Vũ, 925115",Khỏe mạnh,6.47,Bảo Xuân Lê,24/02/2026
+61a451ff-700b-4b43-ad3b-9d13c3e90323,Quý ông Châu Mai,812436345523,07/10/1956,0875374662,anon_2a3cc478@medviet-anon.vn,"50 An Dương JohnHuyện, 320256",Tiểu đường,10.0,Thành Tấn Lê,28/01/2026
+9dec2b83-3885-4f7e-af1a-25a829344e15,Hoàng Phú Nguyễn,729412299101,05/03/1960,0719250412,anon_f0f160e8@medviet-anon.vn,"1 Bác Nhiên Vũ, 234443",Khỏe mạnh,11.12,Bà Phương Trần,14/01/2026
+7c6166df-515a-4b43-b189-1f48e66e2c11,Khoa Đức Trần,573705470013,26/03/1956,0941745702,anon_2919a16b@medviet-anon.vn,"6 Chị Hà Mai, 566991",Khỏe mạnh,4.08,Xuân Đặng,22/01/2026
+14fc3a5d-9b4b-4377-a542-deb92cff45f8,Lâm Trần,414581324159,24/03/1962,0854008457,anon_66f2f97d@medviet-anon.vn,"3 Jane Dãy
+Nhiên Hoàng, 909652",Huyết áp cao,7.78,Chị Hà Dương,08/04/2026
+5d264b1b-6593-4659-972e-8c6882aa5c46,Hà Phạm,678991311402,24/01/1958,0975724726,anon_c0e13c45@medviet-anon.vn,"7 Ông Anh Nguyễn, 377198",Tim mạch,11.62,Quý cô Hải Vũ,11/04/2026
+635a11f2-5c7a-483d-8a9d-2704e860bcb1,Bà Lâm Phạm,037489805526,07/08/1979,0934971213,anon_ffeb2c29@medviet-anon.vn,"65 Bà Kim Lê xã JaneHuyện, 610511",Tim mạch,4.81,Thành Trần,27/03/2026
+83b8fa05-13bc-4dc6-bae0-acdb2a6524af,Bác Dũng Phạm,453701100652,06/12/1960,0319474721,anon_de8c6829@medviet-anon.vn,"51 Hải Trần phố, 355506",Tiểu đường,11.75,Hà Bảo Mai,26/04/2026
+833c8f55-a129-4fa2-a27d-4660293fc266,Cô Lan Lê,922709295229,25/06/1955,0531316699,anon_e38eb442@medviet-anon.vn,"9 Anh Thành Đặng xã Anh Thành Đặng xã, 278852",Tim mạch,8.29,Cô Hà Hoàng,04/06/2026
+2e8ff5a8-c47a-4b7e-9209-383b95284c0a,Bà Duyên Bùi,125234647278,18/03/1997,0823863741,anon_ecb490f7@medviet-anon.vn,"886 Anh Dũng Nguyễn, 627778",Huyết áp cao,5.51,Linh Trần,09/05/2026
+8a0ea57a-9a7d-409d-a6e8-790b215d3b1f,Kim Bảo Lê,195024246677,17/07/2006,0739606295,anon_2a615676@medviet-anon.vn,"65 Huy Hải Hoàng, 187889",Tiểu đường,9.58,Linh Đặng,21/03/2026
+b58ac738-0166-4221-b063-ae7f41ff81d1,Kim Đức Trần,160609104794,13/07/1951,0388894386,anon_64f5c4bf@medviet-anon.vn,"12 Huy Hoàng Bùi, 483405",Tim mạch,8.32,Khoa Đức Mai,22/03/2026
+7b8301cf-8ebc-4d7e-88a6-5b858d56bff6,Bảo Vũ,422458331964,01/05/2001,0809670633,anon_97612e14@medviet-anon.vn,"1 Cô Linh Đặng, 939756",Tim mạch,11.12,Phương Lê,04/05/2026
+d2c0dec2-1751-44d7-8deb-2696015aba1d,Yến Lê,034985460771,28/06/1947,0906756601,anon_b33a2946@medviet-anon.vn,"6 Quý cô Hồng Lê xã, 111230",Khỏe mạnh,8.1,Bảo Dương,02/06/2026
+b2cd9a0a-840c-4cb0-82b3-43849979cf26,Thành Hoàng Trần,940762111412,14/06/1984,0777198217,anon_887f2839@medviet-anon.vn,"JanePhường
+93 Bà An Bùi, 676289",Huyết áp cao,6.39,Quý cô Yến Hoàng,09/03/2026
+46c937e0-d0c5-4550-b69a-053958f42098,Tùng Bùi,092292144612,16/02/1936,0399705811,anon_27756001@medviet-anon.vn,"18 Phúc Trí Dương, 607122",Huyết áp cao,3.8,Thành Hữu Bùi,13/05/2026
+dcad8ec2-963a-4333-a582-95dc75f1c654,Vũ Đức Phạm,252543556763,01/08/1970,0838200466,anon_ef2d66c5@medviet-anon.vn,"58 Anh Nam Phạm xã, 806423",Khỏe mạnh,8.0,Yến Phạm,02/03/2026
+92ded495-e4f1-48e8-b7f3-f32b5a81762a,Cô Phương Phạm,052788836652,29/05/2003,0536632773,anon_2fa520dc@medviet-anon.vn,"952 Cô Lâm Bùi, 144316",Huyết áp cao,9.02,Huy Xuân Đặng,06/04/2026
+e5a1c6e4-e188-4146-bc40-a3d4e5eb4549,Bà Bảo Trần,645700886893,21/01/2005,0351599196,anon_34245fd5@medviet-anon.vn,"80 Quang Hữu Mai, 643377",Huyết áp cao,11.2,Nhiên Bảo Đặng,11/05/2026
+19ca9c1b-94bc-447a-a122-318935f3de4a,Hà Hoàng,869541554339,08/04/1971,0808835189,anon_1312c149@medviet-anon.vn,"63 Huy Mai Bùi, 288627",Tiểu đường,4.2,Quý ông Trọng Dương,06/06/2026
+db370ca7-6ea5-4341-8e2a-c3ff3c5dba42,Nhiên Bùi,096117005296,13/11/1999,0845317165,anon_14f5b7fc@medviet-anon.vn,"44 Ông Dũng Vũ phố JohnHuyện, 599687",Tiểu đường,9.37,Phương Mai,20/02/2026
+8eb7c306-8f73-498e-9c3d-0d5f5c6801d6,Ông Nhiên Đặng,963233023608,14/07/1991,0359138493,anon_ad189cac@medviet-anon.vn,"55 Bà Thảo Phạm, 762398",Tiểu đường,9.67,Chị Vi Vũ,23/03/2026
+679f2f42-9256-4707-9cc0-5b67a19b224a,Quý cô Nhật Nguyễn,761819483177,05/04/1982,0783212687,anon_16a18cfa@medviet-anon.vn,"6 Hạnh Dương, 292818",Tiểu đường,11.92,Cô Vi Phạm,09/05/2026
+b360dfaa-be6e-4d47-b0c0-804b406bf02d,Thảo Hoàng,149211531601,13/07/1989,0505511108,anon_dd749c46@medviet-anon.vn,"81 Linh Dương, 359414",Huyết áp cao,8.2,Quý ông Phúc Dương,26/01/2026
+075072d6-2bac-4712-96a9-19e886d895e5,Phương Trí Lê,014946653299,02/10/1979,0304960152,anon_4019cb8b@medviet-anon.vn,"8 Bảo Thế Vũ xã, 665883",Huyết áp cao,5.35,An Hoàng Nguyễn,13/03/2026
+4db6f475-27dd-4ac4-8282-b6e46986305a,Hoàng Trí Phạm,803002978925,16/01/1954,0597377993,anon_7e38e026@medviet-anon.vn,"40 Chị Thảo Hoàng xã, 687783",Huyết áp cao,5.54,Quý ông Thành Dương,19/05/2026
+d413c850-63c4-476d-a55f-a725bcb3c168,Hương Nguyễn,322760512220,16/12/1992,0894838135,anon_cf4bb710@medviet-anon.vn,"31 Phúc Hoàng xã JaneHuyện, 834498",Khỏe mạnh,7.66,Ông Dũng Lê,30/01/2026
+05aa5eab-88f3-47ea-b83f-52740cb4afe1,Hương Trần,930078473099,05/07/1952,0390454204,anon_4855c605@medviet-anon.vn,"564 Nhật Hoàng Trần, 158760",Tiểu đường,9.6,Linh Hoàng,16/04/2026
+e54c8739-3133-439e-ae7d-952b785b8a07,Yến Dương,075326893008,03/02/1952,0843035961,anon_f0c31e55@medviet-anon.vn,"718 Cô Hải Hoàng, 759726",Tiểu đường,11.61,Thành Phạm,12/04/2026
+a3760c2d-7b31-4cdc-80d9-1a8e1f44aa88,Chị Duyên Dương,003722652838,01/08/1942,0538531086,anon_e6f5476a@medviet-anon.vn,"491 Tùng Lê JohnHuyện, 908239",Tiểu đường,6.59,Thành Bùi,08/04/2026
+56a2d49d-9e5f-4273-af9a-116817661795,Chị Hà Mai,245290825278,10/06/1956,0989769098,anon_27f85898@medviet-anon.vn,"30 Khoa Hoàng, 840951",Tiểu đường,6.69,Hưng Đặng,06/02/2026
+59008d65-8b2a-4759-afc6-c4e691135d7e,Tú Lê,538479415361,25/04/1957,0901731343,anon_c919330f@medviet-anon.vn,"5 Quang Thế Phạm JaneXã, 350385",Khỏe mạnh,9.63,Hoàng Dương,12/04/2026
+8d2cfe83-c407-4654-bf5f-61aaaee7c7a5,Vũ Hải Mai,020394321674,27/04/1979,0987847338,anon_5a81d952@medviet-anon.vn,"031 Hà Hải Lê JaneXã, 754280",Khỏe mạnh,3.57,Bảo Mai Dương,12/02/2026
+03599c6d-1224-4bd2-b7c4-b3ee9b1fc6d1,Quý cô Lâm Nguyễn,842599740560,13/03/1999,0719511582,anon_2393d22d@medviet-anon.vn,"4 Ông Trọng Dương JohnThành phố, 860397",Khỏe mạnh,3.52,Yến Vũ,13/04/2026
+a0154d65-91ed-454a-bfae-ef01a8290f3c,Hải Hoàng Phạm,404954753497,18/03/1984,0919934513,anon_1c538349@medviet-anon.vn,"5 Quý cô Hải Vũ
+JaneHuyện, 532373",Huyết áp cao,10.07,Chị Kim Lê,16/02/2026
+60042231-36c3-4e85-8bae-295e902a405c,Thành Đức Mai,384408963860,25/05/1996,0972862762,anon_81eccbd2@medviet-anon.vn,"Quận JaneThành phố
+350 Hồng Phạm, 198867",Tim mạch,6.82,Chị Chi Phạm,31/01/2026
+e3be7ca0-5df9-44fb-83d6-43ed236eb832,Cô Phương Dương,242136666921,01/01/1948,0996605814,anon_8e5edc38@medviet-anon.vn,"27 Lâm Bùi phố, 908348",Tiểu đường,5.03,Nhật Dương,18/06/2026
+3a0a2b59-c538-4872-9eaa-543e1edbbe71,Hương Bùi,411400685578,10/11/1942,0972117407,anon_da77f324@medviet-anon.vn,"067 Khoa Dương, 238610",Khỏe mạnh,11.16,An Thị Đặng,25/05/2026
+4336ffe5-6631-46a7-8c53-b74c0c9fa6e6,Chị Hạnh Vũ,708261077793,17/08/1994,0396186281,anon_505fb2d3@medviet-anon.vn,"9 Thảo Bùi, 817999",Khỏe mạnh,6.49,Bác Quang Phạm,24/03/2026
+521be8c2-30c3-4f8a-992a-b43d5d822e3a,Anh Nam Nguyễn,828955461293,12/07/1958,0964922841,anon_43bf3a1b@medviet-anon.vn,"521 Ông Khoa Nguyễn, 827497",Tiểu đường,4.18,Quý cô Xuân Hoàng,02/04/2026
+bd717da3-3581-4632-94f5-df7005d2d205,Quý cô Chi Mai,124568630964,11/09/1970,0501150865,anon_9b232241@medviet-anon.vn,"98 Cô Hà Trần
+Huyện JohnPhường, 747983",Khỏe mạnh,5.42,Bà Xuân Vũ,08/05/2026
+637e3f94-110c-4d92-8222-305df1f71605,Anh Hoàng Hoàng,809981448716,02/02/1938,0352497515,anon_bb99d02e@medviet-anon.vn,"Anh Trung Hoàng JaneXã
+387 Anh Trung Hoàng, 655132",Khỏe mạnh,6.42,Anh Vũ Bùi,18/03/2026
+58c69158-04b4-4ac9-a831-7f0dbe9063fb,Minh Trần,560403057048,18/09/2003,0344867528,anon_411f937e@medviet-anon.vn,"256 Cô Vi Bùi xã JohnXã, 260169",Huyết áp cao,6.84,Cô Vi Mai,16/04/2026
+2379c05f-a708-4280-b4ee-0b6721bbd183,Quang Mai Bảo Lê,759603556277,25/11/1953,0969926375,anon_6f1f4b3a@medviet-anon.vn,"881 Nhật Bùi
+Huyện JaneThị xã, 418083",Tim mạch,9.24,Trọng Mai,21/01/2026
